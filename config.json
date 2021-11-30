@@ -1,6 +1,11 @@
 {
-    "prefix": "put prefix here",
-    "command": "put command here",
-    "token": "put bot token here",
-    "quotes":["put", "formatted", "array", "of", "quotes", "here",]
+    "prefix": "!",
+    "command": "Okrishna",
+    "token": "OTE1MTA5MzAyMDg2Mjc5MTk4.YaWz8w.hkd6kbXOw0BnCY1U2df-RLW4Rio",
+    "quotes":["put",
+ "formatted", 
+"array", 
+"of", 
+"quotes",
+ "here",]
 }
